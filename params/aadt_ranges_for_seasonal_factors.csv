@@ -1,0 +1,4 @@
+AADTFromInc,AADTToExc,VolRangeDesc
+0,2500,1-Low Volume
+2500,12500,2-Mid Volume
+12500,1000000,3-Upper Volume

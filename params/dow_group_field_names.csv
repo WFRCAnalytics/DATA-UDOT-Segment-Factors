@@ -1,0 +1,10 @@
+DOWGROUP,DOWFLDNM
+D1-Monday,FAC_MON
+D2-Tuesday,FAC_TUE
+D3-Wednesday,FAC_WED
+D4-Thursday,FAC_THU
+D5-Friday,FAC_FRI
+D6-Saturday,FAC_SAT
+D7-Sunday,FAC_SUN
+1-Weekday (Mo-Th), FAC_WDAVG
+2-Weekend (Fr-Su), FAC_WEAVG

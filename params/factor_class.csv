@@ -1,0 +1,12 @@
+FCTRCLASS,SeasFacVolRange_FC,ATName_FC
+Arterial,1,1
+Canyon,0,0
+Expressway,1,1
+Freeway I-15,0,1
+Freeway I-215,0,0
+Freeway I-70,0,0
+Freeway I-80,0,1
+Freeway I-84,0,0
+Freeway Legacy,0,0
+Freeway SR-201,0,0
+Freeway US-40,0,0
