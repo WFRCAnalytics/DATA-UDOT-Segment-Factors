@@ -1,0 +1,6 @@
+SSNGRP,SSNVOLCLASS,VOLUMEGROUP
+Southeast,1-LowVolume,SERuralLow
+Southeast,2-MidVolume,SERuralMid
+StatewideArterial,1-LowVolume,UTRuralLow
+StatewideArterial,2-MidVolume,UTRuralMid
+StatewideArterial,3-HighVolume,UTRuralHigh
