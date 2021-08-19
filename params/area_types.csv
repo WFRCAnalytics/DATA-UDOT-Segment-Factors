@@ -1,6 +1,6 @@
-ATSort,ATName,SeasFacVolRange_AT
-1,Rural,1
-2,Transition,0
-3,Suburban,0
-4,Urban,0
-5,CBD,0
+ATSort,ATName
+1,Rural
+2,Transition
+3,Suburban
+4,Urban
+5,CBD

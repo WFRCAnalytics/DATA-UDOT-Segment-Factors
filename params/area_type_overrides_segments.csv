@@ -1,48 +1,20 @@
-SEGID,ATOVERRIDE
-0015_108.7,1
-0015_225.3,1
-0015_251.6,3
-0015_252.5,3
-0015_251.6,3
-0015_252.5,3
-0015_253.6,3
-0015_257.6,3
-0015_260.0,3
-0015_261.8,3
-0015_274.7,3
-0015_285.8,3
-0015_286.8,3
-0015_311.4,3
-0015_363.7,1
-0015_379.4,1
-0015_380.0,1
-0015_338.5,3
-0015_335.8,3
-0015_363.7,3
-0015_056.0,2
-0015_056.8,2
-0070_037.1,1
-0080_126.8,3
-0080_138.9,1
-0080_139.4,1
-0080_141.8,1
-0084_081.0,1
-0084_081.7,1
-0084_084.6,1
-0084_087.8,1
-0084_039.5,3
-0084_040.8,3
-0084_103.3,1
-0084_103.9,1
-0200_000.0,3
-0201_000.0,3
-0201_002.8,3
-0201_007.7,3
-0015_056.0,1
-0015_056.8,1
-0015_058.8,1
-0015_062.5,1
-0015_065.0,1
-0067_004.0,3
-0068_061.8,3
-0068_062.6,3
+SEGID,ATOVERRIDE,NOTE
+0015_108.7,1,through Beaver make rural
+0015_244.8,2,Santaquin to SF Main St make transition
+0015_246.9,2,Santaquin to SF Main St make transition
+0015_248.8,2,Santaquin to SF Main St make transition
+0015_250.9,2,Santaquin to SF Main St make transition
+0015_251.6,2,Santaquin to SF Main St make transition
+0015_252.5,2,Santaquin to SF Main St make transition
+0015_253.6,2,Santaquin to SF Main St make transition
+0015_255.9,2,Santaquin to SF Main St make transition
+0015_257.6,3,Between SF Main and Provo make at least suburban
+0015_260.0,3,Between SF Main and Provo make at least suburban
+0015_261.8,3,Between SF Main and Provo make at least suburban
+0015_285.8,3,At Point-of-the Mountain make at least suburban
+0015_286.8,3,At Point-of-the Mountain make at least suburban
+0015_297.9,3,through SL Valley make at least suburban
+0015_311.4,3,between SL and Davis counties make at least suburban
+0015_362.0,2,one piece in Brigham City make transition
+0015_379.3,1,through Tremonton make rural
+0015_380.0,1,through Tremonton make rural

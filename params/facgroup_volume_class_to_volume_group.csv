@@ -1,0 +1,6 @@
+FACGRP,FACVOLCLASS,VOLUMEGROUP
+Southeast,1-LowVolume,SERuralLow
+Southeast,2-MidVolume,SERuralMid
+StatewideArterialExpressway,1-LowVolume,UTRuralLow
+StatewideArterialExpressway,2-MidVolume,UTRuralMid
+StatewideArterialExpressway,3-HighVolume,UTRuralHigh

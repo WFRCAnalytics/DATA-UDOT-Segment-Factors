@@ -175,6 +175,43 @@ STATIONGROUP,STATIONGROUPDESCRIPTION
 732,"732: 300 S via SR 50 - SR 260, Scipio"
 733,733: I-15 Blackridge
 ALL,All: All Stations in Utah
+GRP,GRP: All Station Groups in Utah
+CO0,CO0: Combined Alpine Loop
+CO1,CO1: Combined Bear Lake
+CO2,CO2: Combined Big Cottonwood
+CO3,CO3: Combined Cedar Breaks
+CO7,CO7: Combined Freeway I-15 Plymouth
+CO4,CO4: Combined Freeway I-15 Rural
+CO5,CO5: Combined Freeway I-15 Transition
+CO6,CO6: Combined Freeway I-15 Suburban/Urban/CBD
+CO8,CO8: Combined Freeway I-215
+CO9,CO9: Combined Freeway I-70
+COA,COA: Combined Freeway I-80 Nevada to Tooele
+COB,COB: Combined Freeway I-80 Tooele to Bangerter
+COC,COC: Combined Freeway I-80 Bangerter to Foothill
+COD,COD: Combined Freeway I-80 Foothill to US-40
+COY,COY: Combined Freeway I-80 US-40 to Wyoming
+COE,COE: Combined Freeway I-84 West
+COZ,COZ: Combined Freeway I-84 East
+COF,COF: Combined Freeway Legacy
+COG,COG: Combined Freeway SR-201
+COH,COH: Combined Freeway US-40
+COI,COI: Combined Little Cottonwood / Snowbasin
+COJ,COJ: Combined Moab
+COK,COK: Combined Park City
+COL,COL: Combined Rural Rec Low Volume
+COM,COM: Combined Rural Rec Low Volume - Closed Winter
+CON,CON: Combined Southeast Low Volume
+COO,COO: Combined Southeast High Volume
+COP,COP: Combined Statewide Arterial - Rural Low Volume
+COQ,COQ: Combined Statewide Arterial - Rural Mid Volume
+COR,COR: Combined Statewide Arterial - Rural High Volume
+COS,COS: Combined Statewide Arterial - Transition
+COT,COT: Combined Statewide Arterial - Suburban
+COU,COU: Combined Statewide Arterial - Urban/CBD
+COV,COV: Combined Washington County Arterial
+COW,COW: Combined Washington County Expressway
+XX3,XX3: Combined Statewide Freeway
 SN0,SN0: Season Alpine Loop
 SN1,SN1: Season Bear Lake
 SN2,SN2: Season Big Cottonwood
@@ -182,37 +219,34 @@ SN3,SN3: Season Cedar Breaks
 SN4,SN4: Season Freeway I-15 Rural
 SN5,SN5: Season Freeway I-15 Transition
 SN6,SN6: Season Freeway I-15 Suburban
-SN7,SN7: Season Freeway I-15 Urban
-XX1,XX1: Season Freeway I-15 CBD
+SN7,SN7: Season Freeway I-15 Urban/CBD
 SN8,SN8: Season Freeway I-215
 SN9,SN9: Season Freeway I-70
 SNA,SNA: Season Freeway I-80 Rural
 SNB,SNB: Season Freeway I-80 Transition
 SNC,SNC: Season Freeway I-80 Suburban
-SND,SND: Season Freeway I-80 Urban
-XX1,XX2: Season Freeway I-80 CBD
+SND,SND: Season Freeway I-80 Urban/CBD
 SNE,SNE: Season Freeway I-84
 SNF,SNF: Season Freeway Legacy
 SNG,SNG: Season Freeway SR-201
 SNH,SNH: Season Freeway US-40
-SNI,SNI: Season Little Cottonwood
+SNI,SNI: Season Little Cottonwood / Snowbasin
 SNJ,SNJ: Season Moab
 SNK,SNK: Season Park City
 SNL,SNL: Season Rural Rec Low Volume
-SNM,SNM: Season Rural Rec Low Vol - Closed Winter
+SNM,SNM: Season Rural Rec Low Volume - Closed Winter
 SNN,SNN: Season Southeast Low Volume
-SNO,SNO: Season Southeast Mid Volume
+SNO,SNO: Season Southeast High Volume
 SNP,SNP: Season Statewide Arterial - Rural Low Volume
 SNQ,SNQ: Season Statewide Arterial - Rural Mid Volume
 SNR,SNR: Season Statewide Arterial - Rural High Volume
 SNS,SNS: Season Statewide Arterial - Transition
 SNT,SNT: Season Statewide Arterial - Suburban
-SNU,SNU: Season Statewide Arterial - Urban
-XX1,XX3: Season Statewide Arterial - CBD
+SNU,SNU: Season Statewide Arterial - Urban/CBD
 SNV,SNV: Season Washington County Arterial
 SNW,SNW: Season Washington County Expressway
 SNX,SNX: Season Washington County I-15
-XX1,XX4: Season Wasatch Front Commuter Freeway
+XX1,XX1: Season Wasatch Front Commuter Freeway
 U00,U00: UDOT Stand Alone
 U40,U40: UDOT UrbanInterstate
 U43,U43: UDOT UrbanOtherFwyExpPrinArt
@@ -228,21 +262,23 @@ U75,U75: UDOT HighElevation
 WD0,WD0: Weekday Arterial Rural
 WD1,WD1: Weekday Arterial Transition
 WD2,WD2: Weekday Arterial Suburban
-WD3,WD3: Weekday Arterial Urban
+WD3,WD3: Weekday Arterial Urban/CBD
 WD4,WD4: Weekday Canyon
-WD5,WD5: Weekday Expressway Transition
+WD5,WD5: Weekday Expressway Rural/Transition
 WD6,WD6: Weekday Expressway Suburban
-WD7,WD7: Weekday Expressway Urban
+WD7,WD7: Weekday Expressway Urban/CBD
 WD8,WD8: Weekday Freeway I-15 Rural
 WD9,WD9: Weekday Freeway I-15 Transition
-WDA,WDA: Weekday Freeway I-15 Suburban
+WDA,WDA: Weekday Freeway I-15 Suburban/Urban/CBD
 WDB,WDB: Weekday Freeway I-215
 WDC,WDC: Weekday Freeway I-70
 WDD,WDD: Weekday Freeway I-80 Rural
+XX2,XX2: Weekday Freeway I-80 Transition
 WDE,WDE: Weekday Freeway I-80 Suburban
-WDF,WDF: Weekday Freeway I-80 Urban
+WDF,WDF: Weekday Freeway I-80 Urban/CBD
 WDG,WDG: Weekday Freeway I-84 East
 WDH,WDH: Weekday Freeway I-84 West
 WDI,WDI: Weekday Freeway Legacy
 WDJ,WDJ: Weekday Freeway SR-201
 WDK,WDK: Weekday Freeway US-40
+XX4,XX4: Weekday Freeway Statewide
