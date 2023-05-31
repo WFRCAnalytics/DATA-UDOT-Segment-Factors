@@ -68,7 +68,7 @@ COFACGEO,CO7,I15PlymouthFreeway,0-AllAreaTypes,0-AllVolumes
 COFACGEO,CO4,I15Freeway,1-Rural,0-AllVolumes
 COFACGEO,CO5,I15Freeway,2-Transition,0-AllVolumes
 COFACGEO,CO6,I15Freeway,345-Suburban/Urban/CBD,0-AllVolumes
-COFACGEO,CO8,I215Freeway,0-AllAreaTypes,0-AllVolume
+COFACGEO,CO8,I215Freeway,0-AllAreaTypes,0-AllVolumes
 COFACGEO,CO9,I70Freeway,0-AllAreaTypes,0-AllVolumes
 COFACGEO,XX3,StatewideFreeway,0-AllAreaTypes,0-AllVolumes
 WDFACGEO,WD0,StatewideArterial,1-Rural,0-AllVolumes

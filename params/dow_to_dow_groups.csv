@@ -1,11 +1,9 @@
 DOW,DOWLABEL,DOWGROUP
-0,Mon,1-Weekday (Mo-Th)
-1,Tue,1-Weekday (Mo-Th)
-2,Wed,1-Weekday (Mo-Th)
-3,Thu,1-Weekday (Mo-Th)
-4,Fri,2-Weekend (Fr-Su)
-5,Sat,2-Weekend (Fr-Su)
-6,Sun,2-Weekend (Fr-Su)
+1,Tue,1-Weekday (Tu-Th)
+2,Wed,1-Weekday (Tu-Th)
+3,Thu,1-Weekday (Tu-Th)
+5,Sat,2-Weekend (Sa-Su)
+6,Sun,2-Weekend (Sa-Su)
 0,Mon,D1-Monday
 1,Tue,D2-Tuesday
 2,Wed,D3-Wednesday

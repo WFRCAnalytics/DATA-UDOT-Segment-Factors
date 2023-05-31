@@ -6,5 +6,5 @@ D4-Thursday,FAC_THU,1,Thu
 D5-Friday,FAC_FRI,1,Fri
 D6-Saturday,FAC_SAT,1,Sat
 D7-Sunday,FAC_SUN,1,Sun
-1-Weekday (Mo-Th),FAC_WDAVG,0,
-2-Weekend (Fr-Su),FAC_WEAVG,0,
+1-Weekday (Tu-Th),FAC_WDAVG,0,
+2-Weekend (Sa-Su),FAC_WEAVG,0,

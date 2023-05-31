@@ -1,284 +1,285 @@
-STATIONGROUP,STATIONGROUPDESCRIPTION
-301,"301: I 80 1 mile E of I 215 Int., Parleys Canyon, SLC MP 129.000 FC 11"
-302,302: I 15 12900 South M.P. 290.600 FC 02
-303,"303: SR 91 1.5 miles N of SR 61, Webster Jct MP 45.240 FC 06"
-304,"304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02"
-305,"305: SR 24 0.1 mile N of SR 118, Sigurd MP 8.064 FC 07"
-306,"306: I 15 2 miles N of Center Street, Provo MP 267.841 FC 11"
-307,307: I 84 0.5 mile E of Mountain Green Int. MP 92.593 FC 07
-308,"308: SR 40 1 mile E of POE Daniels Canyon, SLC MP 21.579 FC 02"
-309,309: I 80 1 mile East of Echo Jct. MP 168.350 FC 01
-310,310: I 15 3 miles S of Plymouth Int. MP 389.341 FC 01
-312,"312: SR 6 4.5 miles SE of SR 89, Moark Jct. MP 182.390 FC 02"
-313,313: I 15 1 mile S of Scipio Int. MP 187.083 FC 01
-314,"314: SR 6 2 miles W of SR 191, Helper MP 226.966 FC 02"
-315,315: I 15 1.8 miles S of Lagoon Drive Int. MP 321.545 FC 11
-316,"316: SR 89 2 miles S of SR 193, Hillfield Road, Layton MP 402.695 FC 14"
-317,"317: SR 210 Mouth of Little Cottonwood Canyon, SLC MP 4.166 FC 06"
-318,318: I 80 1 mile W of Coalville Int. MP 161.501 FC 01
-319,"319: SR 189 1 mile W of SR 92, Provo Cyn. MP 13.342 FC 02"
-320,"320: SR 39 0.5 mile W of SR 158, Ogden Cyn. MP 13.243 FC 06"
-321,"321: SR 6 0.25 mile W of SR 68, Elberta Jct. MP 149.650 FC 06"
-322,322: SR 190 Mouth of Big Cottonwood Cyn. MP 2.460 FC 16
-323,323: I 80 1 mile W of Delle Int. MP 68.690 FC 01
-324,"324: SR 491 9 miles E of SR 191, Monticello MP 9.000 FC 02"
-325,"325: SR 89 1087 S State Street, SLC MP 377.450 FC 16"
-327,"327: SR 6 0.2 mile W of Center Street, Spanish Fork MP 174.652 FC 14"
-329,"329: SR 89 3450 S Washington Blvd., Ogden MP 412.398 FC 14"
-332,"332: SR 186 950 S Foothill Blvd., SLC MP 6.186 FC 14"
-333,"333: SR 71 1190 S 700 E, SLC MP 21.260 FC 14"
-335,"335: SR 173 950 W 5400 S, SLC MP 8.339 FC 16"
-340,"340: I 80 1325 W, SLC MP 118.420 FC 11"
-341,"341: I 80 1 mile E of 300 E Overpass, SLC MP 123.540 FC 11"
-348,"348: I 15 0.5 mile S of 31st Street, Ogden MP 340.939 FC 11"
-349,349: I 15 2 miles N of Santaquin Int. MP 246.920 FC 01
-350,"350: SR 189 3200 N University Avenue, Provo MP 4.831 FC 14"
-351,"351: I 215 700 W, SLC MP 11.826 FC 11"
-353,"353: I 215 2800 S, SLC MP 18.500 FC 11"
-354,"354: SR 171 1200 W 3300 S, SLC MP 8.800 FC 14"
-355,"355: SR 171 7658 W 3500 S, Magna MP 0.900 FC 16"
-362,"362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02"
-363,"363: SR 91 0.8 mile N of SR 101, Wellsville MP 19.899 FC 02"
-382,"382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16"
-400,400: I 15 1 mile S of Bloomington Int. MP 3.640 FC 11
-401,401: I 15 1 mile S of Leeds Int. MP 22.581 FC 01
-402,"402: SR 9 1.3 miles W of SR 318, Hurricane MP 1.415 FC 02"
-403,403: I 15 0.5 mile N of N Beaver Int. MP 112.432 FC 01
-404,"404: I 70 1 mile W of SR 6 Int., Green River MP 156.869 FC 01"
-405,"405: SR 21 3 miles W of Main Street, Beaver MP 104.310 FC 06"
-406,"406: SR 71 4550 S 700 E, SLC MP 16.337 FC 14"
-407,"407: SR 68 2 miles N of Utah County Line, Bluffdale MP 38.593 FC 16"
-408,"408: SR 68 1200 S Redwood Road, SLC MP 57.436 FC 16"
-409,"409: Route 2330 1200 W North Temple, SLC MP 1.690 FC 16"
-411,411: SR 89 7 miles E of Kanab MP 54.009 FC 02
-412,412: SR 89A 2 miles S of Kanab MP 0.010 FC 06
-414,"414: SR 95 0.2 mile S of SR 24, Hanksville MP 0.225 FC 06"
-415,415: SR 89 1 mile N of Marysvale MP 180.244 FC 02
-416,"416: SR 89 5.5 miles S of SR 6, Birdseye MP 306.479 FC 06"
-418,"418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02"
-420,"420: SR 191 6 miles N of SR 491, Monticello MP 77.531 FC 02"
-421,"421: SR 191 0.2 mile N of SR 279, Moab MP 129.989 FC 02"
-424,"424: SR 191 3.5 miles N of SR 40, Vernal MP 355.610 FC 06"
-425,"425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02"
-427,"427: SR 10 1 mile N of SR 155, Huntington MP 50.294 FC 06"
-430,"430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07"
-431,"431: SR 28 1.5 miles S of SR 78, Levan MP 28.668 FC 02"
-501,"501: I 215 0.68 mile N of 2100 N Int., SLC MP 26.315 FC 11"
-502,502: I 15 0.5 mile S of Nephi Int. MP 222.158 FC 01
-503,"503: SR 89 0.5 mile S of SR 50, Salina MP 226.441 FC 02"
-504,504: SR 89 1 mile S of Circleville MP 156.965 FC 02
-506,"506: SR 191 1.2 miles W of SR 163, Bluff MP 24.666 FC 02"
-507,"507: SR 6 1 mile N of SR 55 Int., Price MP 239.232 FC 02"
-508,508: I 70 1.5 miles NE of W Richfield Int. MP 38.732 FC 11
-509,"509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02"
-510,"510: SR 218 100 N 319 W, Smithfield MP 7.700 FC 16"
-511,"511: Route 1267 2416 N 800 E, Logan MP 2.145 FC 16"
-512,"512: SR 35 0.7 mile E of Summit County Line, Woodland MP 10.532 FC 07"
-513,513: I 15 1 mile N of S Parowan Int. MP 76.320 FC 01
-601,601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17
-602,602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07
-605,"605: SR 224 0.1 mile N of Canyons Resort Drive, Park City MP 8.920 FC 02"
-606,"606: SR 248 0.5 mile W of SR 40, Park City MP 2.561 FC 02"
-609,609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07
-611,"611: I 15 1 mile S of SR 77, Springville Int. MP 259.520 FC 11"
-612,"612: I 15 N of SR 126 Int., Layton MP 331.071 FC 11"
-613,613: I 15 2 miles S of S Brigham Int. MP 360.800 FC 01
-614,614: I 84 3.2 miles W of Bothwell Int. MP 36.640 FC 01
-615,"615: I 80 0.5 mile E of SR 36 Mills Jct., Tooele MP 99.500 FC 01"
-616,"616: I 15 0.7 mile N of I 215 On-Ramp, Woods Cross MP 314.600 FC 11"
-617,"617: I 215 5800 S Knudsen_s Corner, SLC MP 5.100 FC 11"
-618,"618: SR 73 W of SR 68 Redwood Rd, Lehi  MP 36.133 FC 14"
-619,"619: SR 201 6174 W, SLC MP 10.600 FC 12"
-620,"620: SR 30 W of 600 W, Logan MP 109.100 FC 12"
-621,"621: I 15 0.43 mile S of Washington Int., St. George MP 10.500 FC 11"
-622,"622: SR 165 2121 S, Millville MP 9.350 FC 16"
-623,"623: SR 18 Bluff Street, St. George MP 1.600 FC 14"
-624,624: SR 67 Legacy Parkway MP 0.944 FC 12
-625,625: SR 67 Legacy Parkway MP 11.418 FC 12
-626,"626: SR 73 800 W, Saratoga Springs MP 35.800 FC 14"
-627,627: SR 154 7700 S Bangerter Highway MP 13.004
-628,"628: I-215 1100 West, East of Redwood Rd. MP 28.550"
-629,629: I-15 2900 South MP 304.001
-630,"630: I 15 8550 South, Midvale MP 296.400 FC 02"
-631,"631: SR 266 4700 S 1075 W, SLC MP 1.923 FC 14"
-632,"632: SR 145 Pioneer Crossing VMS Sign, Lehi-American Fork MP 4.407"
-633,633: SR 85 Porter Rockwell Blvd @ 2300 West MP 3.374
-634,634: SR 85 7600 South Mountainview Corridor MP 15.840
-635,"635: I 15, 15400 South, Draper"
-636,636: SR 154 Bangerter @ 700 W Draper MP 1.857
-637,637: I 215 @ 3900 S West Valley MP 16.880 NB
-638,638: I-15 N. South Santaquin
-639,"639: I-15 N. of SR-178, Payson"
-640,"640: I-15 N. of Center Street  NB, Orem"
-641,"641: I-15 N. of SR 52 800 N.  NB, Orem"
-642,"642: SR-52 800 N. E. of I-15, Orem"
-643,"643: Jct SR 89 - SR 74 via 1200 East and 10400 South.,Highland"
-644,"644: FR-2285 Pony Express Pkwy W. of Redwood Rd., Eagle Mountain"
-645,"645: SR-129 N. County Blvd N. of Pleasant Grove Blvd., Pleasant Grove"
-646,"646: SR-77 400 S. E. of I-15, Springville"
-647,"647: SR-89 400 N., Lindon"
-648,"648: SR-194 2100 N. E. of SR-68 WB, Lehi"
-649,"649: SR-114 Provo Center E. of I-15, Provo"
-650,"650: 100 West Santaquin Via SR-6, Santaquin"
-651,"651: SR-114 Geneva Rd N. of University Pkwy., Orem"
-653,"653: SR-156 Main st., Spanish Fork"
-654,"654: SR-178 800 S. E. of 1000 W., Payson"
-655,655: I-15 N. of SR 164 South Spanish Fork
-656,"656: SR-129 North County Blvd N. of 2600 N., Cedar Hills"
-657,"657: FR-2889 Ranches Pkwy. N. of Pony Express Way., Eagle Mountain"
-658,"658: SR-89 State St. N. of Pacific Dr., American Fork"
-659,"659: SR-189 800 North, Provo"
-660,"660: SR 75 (Road to Ironton) Via SR-89, Provo"
-661,"661: 800 East - SR 189 Olmstead Junction, Orem"
-662,662: 2300 West (Lehi) between Main St. and 2100 North
-663,"663: Harbor Park Way via Redwood Rd - 400 S Lehi, Saratoga Springs"
-664,664: Sr-89 In Mapleton
-665,"665: I-15 N. of SR 77 NB, Springville"
-666,666: I-15 between SR-92 and 2100 North Lehi
-667,"667: I-15 N. of SR 75 North NB, Springville/Provo"
-668,"668: I-15 N. of SR 189 University Avenue NB, Provo"
-669,"669: I-15 N. of SR 265 BYU Diagonal/University Pkwy NB, Provo"
-670,"670: I-15 N. of SR 241 NB, Lindon / Pleasant Grove"
-671,"671: I-15 N of SR 180 500 East NB, American Fork"
-672,672: 278.528
-673,"673: I-15 N of SR 73 NB,  Lehi"
-674,"674: I-15 N of SR 92  NB, Highland / (Alpine)"
-675,"675: SR-92 By pass @ Center St., Highland"
-676,"676: SR-92 Center St., Highland"
-677,677: I-80 Lambs Canyon
-678,678: I-80 Kimball Junction
-679,679: 500 N Mantua via SR 91 - SR 23 (Center St) Wellsville
-702,702: SR-18 Bluff St. 425 N. St. George
-703,"703: SR 8 1313 W Sunset Blvd., St. George MP 0.640 FC 16"
-704,"704: Route 3196 2250 E Redcliff Drive, St. George MP 7.540 FC 17"
-711,"711: SR 154 2500 S Bangerter Highway, SLC MP 20.229 FC 14"
-712,"712: SR 7, Southern Parkway, St. George MP 1.337"
-713,"713: SR 7, Southern Parkway, St. George MP 4.800"
-714,"714: SR 7, Southern Parkway, St. George MP 6.910"
-715,"715: SR-9 Quail Ridge Rd., Springdale"
-716,716: SR-18 Bluff St. ST. George
-717,717: I-15 Arizona State Line
-718,"718: I-15 Brigham Rd., St. George"
-719,"719: I-15 Washington Pkwy., Washington"
-720,"720: I-15 South Beaver, Beaver"
-721,"721: I-15 Sulpherdale, Sulpherdale"
-722,"722: I-70 Cove fort, Cove fort"
-723,"723: I-15 NB @ 500 W., Washington"
-724,"724: SR-59 East of Hurricane, Hurricane"
-725,"725: 740 N via State St - Center Ave, Toquerville"
-726,"726: Fish Hatchery Rd via SR 89 - 200 S, Hatch"
-727,"727: Central Utah Corr Fac via SR 89 - 200 S Sterling, Gunnison"
-728,"728: 700 N via SR 89 - SR 132, Ephraim"
-729,"729: LaSal Loop Rd via SR 191 - Millcreek Dr, Moab"
-730,"730: SR 89 Jct via SR 12 - SR 63, Bryce Cyn"
-731,"731: 300 E Emery via SR 10 (Main St) - 100 S Millsite St Park, Ferron"
-732,"732: 300 S via SR 50 - SR 260, Scipio"
-733,733: I-15 Blackridge
-ALL,All: All Stations in Utah
-GRP,GRP: All Station Groups in Utah
-CO0,CO0: Combined Alpine Loop
-CO1,CO1: Combined Bear Lake
-CO2,CO2: Combined Big Cottonwood
-CO3,CO3: Combined Cedar Breaks
-CO7,CO7: Combined Freeway I-15 Plymouth
-CO4,CO4: Combined Freeway I-15 Rural
-CO5,CO5: Combined Freeway I-15 Transition
-CO6,CO6: Combined Freeway I-15 Suburban/Urban/CBD
-CO8,CO8: Combined Freeway I-215
-CO9,CO9: Combined Freeway I-70
-COA,COA: Combined Freeway I-80 Nevada to Tooele
-COB,COB: Combined Freeway I-80 Tooele to Bangerter
-COC,COC: Combined Freeway I-80 Bangerter to Foothill
-COD,COD: Combined Freeway I-80 Foothill to US-40
-COY,COY: Combined Freeway I-80 US-40 to Wyoming
-COE,COE: Combined Freeway I-84 West
-COZ,COZ: Combined Freeway I-84 East
-COF,COF: Combined Freeway Legacy
-COG,COG: Combined Freeway SR-201
-COH,COH: Combined Freeway US-40
-COI,COI: Combined Little Cottonwood / Snowbasin
-COJ,COJ: Combined Moab
-COK,COK: Combined Park City
-COL,COL: Combined Rural Rec Low Volume
-COM,COM: Combined Rural Rec Low Volume - Closed Winter
-CON,CON: Combined Southeast Low Volume
-COO,COO: Combined Southeast High Volume
-COP,COP: Combined Statewide Arterial - Rural Low Volume
-COQ,COQ: Combined Statewide Arterial - Rural Mid Volume
-COR,COR: Combined Statewide Arterial - Rural High Volume
-COS,COS: Combined Statewide Arterial - Transition
-COT,COT: Combined Statewide Arterial - Suburban
-COU,COU: Combined Statewide Arterial - Urban/CBD
-COV,COV: Combined Washington County Arterial
-COW,COW: Combined Washington County Expressway
-XX3,XX3: Combined Statewide Freeway
-SN0,SN0: Season Alpine Loop
-SN1,SN1: Season Bear Lake
-SN2,SN2: Season Big Cottonwood
-SN3,SN3: Season Cedar Breaks
-SN4,SN4: Season Freeway I-15 Rural
-SN5,SN5: Season Freeway I-15 Transition
-SN6,SN6: Season Freeway I-15 Suburban
-SN7,SN7: Season Freeway I-15 Urban/CBD
-SN8,SN8: Season Freeway I-215
-SN9,SN9: Season Freeway I-70
-SNA,SNA: Season Freeway I-80 Rural
-SNB,SNB: Season Freeway I-80 Transition
-SNC,SNC: Season Freeway I-80 Suburban
-SND,SND: Season Freeway I-80 Urban/CBD
-SNE,SNE: Season Freeway I-84
-SNF,SNF: Season Freeway Legacy
-SNG,SNG: Season Freeway SR-201
-SNH,SNH: Season Freeway US-40
-SNI,SNI: Season Little Cottonwood / Snowbasin
-SNJ,SNJ: Season Moab
-SNK,SNK: Season Park City
-SNL,SNL: Season Rural Rec Low Volume
-SNM,SNM: Season Rural Rec Low Volume - Closed Winter
-SNN,SNN: Season Southeast Low Volume
-SNO,SNO: Season Southeast High Volume
-SNP,SNP: Season Statewide Arterial - Rural Low Volume
-SNQ,SNQ: Season Statewide Arterial - Rural Mid Volume
-SNR,SNR: Season Statewide Arterial - Rural High Volume
-SNS,SNS: Season Statewide Arterial - Transition
-SNT,SNT: Season Statewide Arterial - Suburban
-SNU,SNU: Season Statewide Arterial - Urban/CBD
-SNV,SNV: Season Washington County Arterial
-SNW,SNW: Season Washington County Expressway
-SNX,SNX: Season Washington County I-15
-XX1,XX1: Season Wasatch Front Commuter Freeway
-U00,U00: UDOT Stand Alone
-U40,U40: UDOT UrbanInterstate
-U43,U43: UDOT UrbanOtherFwyExpPrinArt
-U45,U45: UDOT UrbanMinArtMjrColMinColLoc
-U50,U50: UDOT RuralInterstate
-U51,U51: UDOT RuralOthPrinArt
-U53,U53: UDOT RuralMinArtMajColMinColLoc
-U60,U60: UDOT NorthRec
-U62,U62: UDOT CottonwoodCanyons
-U63,U63: UDOT GardenCityArea
-U70,U70: UDOT StGeorge
-U75,U75: UDOT HighElevation
-WD0,WD0: Weekday Arterial Rural
-WD1,WD1: Weekday Arterial Transition
-WD2,WD2: Weekday Arterial Suburban
-WD3,WD3: Weekday Arterial Urban/CBD
-WD4,WD4: Weekday Canyon
-WD5,WD5: Weekday Expressway Rural/Transition
-WD6,WD6: Weekday Expressway Suburban
-WD7,WD7: Weekday Expressway Urban/CBD
-WD8,WD8: Weekday Freeway I-15 Rural
-WD9,WD9: Weekday Freeway I-15 Transition
-WDA,WDA: Weekday Freeway I-15 Suburban/Urban/CBD
-WDB,WDB: Weekday Freeway I-215
-WDC,WDC: Weekday Freeway I-70
-WDD,WDD: Weekday Freeway I-80 Rural
-XX2,XX2: Weekday Freeway I-80 Transition
-WDE,WDE: Weekday Freeway I-80 Suburban
-WDF,WDF: Weekday Freeway I-80 Urban/CBD
-WDG,WDG: Weekday Freeway I-84 East
-WDH,WDH: Weekday Freeway I-84 West
-WDI,WDI: Weekday Freeway Legacy
-WDJ,WDJ: Weekday Freeway SR-201
-WDK,WDK: Weekday Freeway US-40
-XX4,XX4: Weekday Freeway Statewide
+STATIONGROUP,STATIONGROUPDESCRIPTION,FACGEOGROUP,FINALCUT
+301,"301: I 80 1 mile E of I 215 Int., Parleys Canyon, SLC MP 129.000 FC 11",,0
+302,302: I 15 12900 South M.P. 290.600 FC 02,,0
+303,"303: SR 91 1.5 miles N of SR 61, Webster Jct MP 45.240 FC 06",,0
+304,"304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02",,0
+305,"305: SR 24 0.1 mile N of SR 118, Sigurd MP 8.064 FC 07",,0
+306,"306: I 15 2 miles N of Center Street, Provo MP 267.841 FC 11",,0
+307,307: I 84 0.5 mile E of Mountain Green Int. MP 92.593 FC 07,,0
+308,"308: SR 40 1 mile E of POE Daniels Canyon, SLC MP 21.579 FC 02",,0
+309,309: I 80 1 mile East of Echo Jct. MP 168.350 FC 01,,0
+310,310: I 15 3 miles S of Plymouth Int. MP 389.341 FC 01,,0
+312,"312: SR 6 4.5 miles SE of SR 89, Moark Jct. MP 182.390 FC 02",,0
+313,313: I 15 1 mile S of Scipio Int. MP 187.083 FC 01,,0
+314,"314: SR 6 2 miles W of SR 191, Helper MP 226.966 FC 02",,0
+315,315: I 15 1.8 miles S of Lagoon Drive Int. MP 321.545 FC 11,,0
+316,"316: SR 89 2 miles S of SR 193, Hillfield Road, Layton MP 402.695 FC 14",,0
+317,"317: SR 210 Mouth of Little Cottonwood Canyon, SLC MP 4.166 FC 06",,0
+318,318: I 80 1 mile W of Coalville Int. MP 161.501 FC 01,,0
+319,"319: SR 189 1 mile W of SR 92, Provo Cyn. MP 13.342 FC 02",,0
+320,"320: SR 39 0.5 mile W of SR 158, Ogden Cyn. MP 13.243 FC 06",,0
+321,"321: SR 6 0.25 mile W of SR 68, Elberta Jct. MP 149.650 FC 06",,0
+322,322: SR 190 Mouth of Big Cottonwood Cyn. MP 2.460 FC 16,,0
+323,323: I 80 1 mile W of Delle Int. MP 68.690 FC 01,,0
+324,"324: SR 491 9 miles E of SR 191, Monticello MP 9.000 FC 02",,0
+325,"325: SR 89 1087 S State Street, SLC MP 377.450 FC 16",,0
+327,"327: SR 6 0.2 mile W of Center Street, Spanish Fork MP 174.652 FC 14",,0
+329,"329: SR 89 3450 S Washington Blvd., Ogden MP 412.398 FC 14",,0
+332,"332: SR 186 950 S Foothill Blvd., SLC MP 6.186 FC 14",,0
+333,"333: SR 71 1190 S 700 E, SLC MP 21.260 FC 14",,0
+335,"335: SR 173 950 W 5400 S, SLC MP 8.339 FC 16",,0
+340,"340: I 80 1325 W, SLC MP 118.420 FC 11",,0
+341,"341: I 80 1 mile E of 300 E Overpass, SLC MP 123.540 FC 11",,0
+348,"348: I 15 0.5 mile S of 31st Street, Ogden MP 340.939 FC 11",,0
+349,349: I 15 2 miles N of Santaquin Int. MP 246.920 FC 01,,0
+350,"350: SR 189 3200 N University Avenue, Provo MP 4.831 FC 14",,0
+351,"351: I 215 700 W, SLC MP 11.826 FC 11",,0
+353,"353: I 215 2800 S, SLC MP 18.500 FC 11",,0
+354,"354: SR 171 1200 W 3300 S, SLC MP 8.800 FC 14",,0
+355,"355: SR 171 7658 W 3500 S, Magna MP 0.900 FC 16",,0
+362,"362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02",,0
+363,"363: SR 91 0.8 mile N of SR 101, Wellsville MP 19.899 FC 02",,0
+382,"382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16",,0
+400,400: I 15 1 mile S of Bloomington Int. MP 3.640 FC 11,,0
+401,401: I 15 1 mile S of Leeds Int. MP 22.581 FC 01,,0
+402,"402: SR 9 1.3 miles W of SR 318, Hurricane MP 1.415 FC 02",,0
+403,403: I 15 0.5 mile N of N Beaver Int. MP 112.432 FC 01,,0
+404,"404: I 70 1 mile W of SR 6 Int., Green River MP 156.869 FC 01",,0
+405,"405: SR 21 3 miles W of Main Street, Beaver MP 104.310 FC 06",,0
+406,"406: SR 71 4550 S 700 E, SLC MP 16.337 FC 14",,0
+407,"407: SR 68 2 miles N of Utah County Line, Bluffdale MP 38.593 FC 16",,0
+408,"408: SR 68 1200 S Redwood Road, SLC MP 57.436 FC 16",,0
+409,"409: Route 2330 1200 W North Temple, SLC MP 1.690 FC 16",,0
+411,411: SR 89 7 miles E of Kanab MP 54.009 FC 02,,0
+412,412: SR 89A 2 miles S of Kanab MP 0.010 FC 06,,0
+414,"414: SR 95 0.2 mile S of SR 24, Hanksville MP 0.225 FC 06",,0
+415,415: SR 89 1 mile N of Marysvale MP 180.244 FC 02,,0
+416,"416: SR 89 5.5 miles S of SR 6, Birdseye MP 306.479 FC 06",,0
+418,"418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02",,0
+420,"420: SR 191 6 miles N of SR 491, Monticello MP 77.531 FC 02",,0
+421,"421: SR 191 0.2 mile N of SR 279, Moab MP 129.989 FC 02",,0
+424,"424: SR 191 3.5 miles N of SR 40, Vernal MP 355.610 FC 06",,0
+425,"425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02",,0
+427,"427: SR 10 1 mile N of SR 155, Huntington MP 50.294 FC 06",,0
+430,"430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07",,0
+431,"431: SR 28 1.5 miles S of SR 78, Levan MP 28.668 FC 02",,0
+501,"501: I 215 0.68 mile N of 2100 N Int., SLC MP 26.315 FC 11",,0
+502,502: I 15 0.5 mile S of Nephi Int. MP 222.158 FC 01,,0
+503,"503: SR 89 0.5 mile S of SR 50, Salina MP 226.441 FC 02",,0
+504,504: SR 89 1 mile S of Circleville MP 156.965 FC 02,,0
+506,"506: SR 191 1.2 miles W of SR 163, Bluff MP 24.666 FC 02",,0
+507,"507: SR 6 1 mile N of SR 55 Int., Price MP 239.232 FC 02",,0
+508,508: I 70 1.5 miles NE of W Richfield Int. MP 38.732 FC 11,,0
+509,"509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02",,0
+510,"510: SR 218 100 N 319 W, Smithfield MP 7.700 FC 16",,0
+511,"511: Route 1267 2416 N 800 E, Logan MP 2.145 FC 16",,0
+512,"512: SR 35 0.7 mile E of Summit County Line, Woodland MP 10.532 FC 07",,0
+513,513: I 15 1 mile N of S Parowan Int. MP 76.320 FC 01,,0
+601,601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17,,0
+602,602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07,,0
+605,"605: SR 224 0.1 mile N of Canyons Resort Drive, Park City MP 8.920 FC 02",,0
+606,"606: SR 248 0.5 mile W of SR 40, Park City MP 2.561 FC 02",,0
+609,609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07,,0
+611,"611: I 15 1 mile S of SR 77, Springville Int. MP 259.520 FC 11",,0
+612,"612: I 15 N of SR 126 Int., Layton MP 331.071 FC 11",,0
+613,613: I 15 2 miles S of S Brigham Int. MP 360.800 FC 01,,0
+614,614: I 84 3.2 miles W of Bothwell Int. MP 36.640 FC 01,,0
+615,"615: I 80 0.5 mile E of SR 36 Mills Jct., Tooele MP 99.500 FC 01",,0
+616,"616: I 15 0.7 mile N of I 215 On-Ramp, Woods Cross MP 314.600 FC 11",,0
+617,"617: I 215 5800 S Knudsen_s Corner, SLC MP 5.100 FC 11",,0
+618,"618: SR 73 W of SR 68 Redwood Rd, Lehi  MP 36.133 FC 14",,0
+619,"619: SR 201 6174 W, SLC MP 10.600 FC 12",,0
+620,"620: SR 30 W of 600 W, Logan MP 109.100 FC 12",,0
+621,"621: I 15 0.43 mile S of Washington Int., St. George MP 10.500 FC 11",,0
+622,"622: SR 165 2121 S, Millville MP 9.350 FC 16",,0
+623,"623: SR 18 Bluff Street, St. George MP 1.600 FC 14",,0
+624,624: SR 67 Legacy Parkway MP 0.944 FC 12,,0
+625,625: SR 67 Legacy Parkway MP 11.418 FC 12,,0
+626,"626: SR 73 800 W, Saratoga Springs MP 35.800 FC 14",,0
+627,627: SR 154 7700 S Bangerter Highway MP 13.004,,0
+628,"628: I-215 1100 West, East of Redwood Rd. MP 28.550",,0
+629,629: I-15 2900 South MP 304.001,,0
+630,"630: I 15 8550 South, Midvale MP 296.400 FC 02",,0
+631,"631: SR 266 4700 S 1075 W, SLC MP 1.923 FC 14",,0
+632,"632: SR 145 Pioneer Crossing VMS Sign, Lehi-American Fork MP 4.407",,0
+633,633: SR 85 Porter Rockwell Blvd @ 2300 West MP 3.374,,0
+634,634: SR 85 7600 South Mountainview Corridor MP 15.840,,0
+635,"635: I 15, 15400 South, Draper",,0
+636,636: SR 154 Bangerter @ 700 W Draper MP 1.857,,0
+637,637: I 215 @ 3900 S West Valley MP 16.880 NB,,0
+638,638: I-15 N. South Santaquin,,0
+639,"639: I-15 N. of SR-178, Payson",,0
+640,"640: I-15 N. of Center Street  NB, Orem",,0
+641,"641: I-15 N. of SR 52 800 N.  NB, Orem",,0
+642,"642: SR-52 800 N. E. of I-15, Orem",,0
+643,"643: Jct SR 89 - SR 74 via 1200 East and 10400 South.,Highland",,0
+644,"644: FR-2285 Pony Express Pkwy W. of Redwood Rd., Eagle Mountain",,0
+645,"645: SR-129 N. County Blvd N. of Pleasant Grove Blvd., Pleasant Grove",,0
+646,"646: SR-77 400 S. E. of I-15, Springville",,0
+647,"647: SR-89 400 N., Lindon",,0
+648,"648: SR-194 2100 N. E. of SR-68 WB, Lehi",,0
+649,"649: SR-114 Provo Center E. of I-15, Provo",,0
+650,"650: 100 West Santaquin Via SR-6, Santaquin",,0
+651,"651: SR-114 Geneva Rd N. of University Pkwy., Orem",,0
+653,"653: SR-156 Main st., Spanish Fork",,0
+654,"654: SR-178 800 S. E. of 1000 W., Payson",,0
+655,655: I-15 N. of SR 164 South Spanish Fork,,0
+656,"656: SR-129 North County Blvd N. of 2600 N., Cedar Hills",,0
+657,"657: FR-2889 Ranches Pkwy. N. of Pony Express Way., Eagle Mountain",,0
+658,"658: SR-89 State St. N. of Pacific Dr., American Fork",,0
+659,"659: SR-189 800 North, Provo",,0
+660,"660: SR 75 (Road to Ironton) Via SR-89, Provo",,0
+661,"661: 800 East - SR 189 Olmstead Junction, Orem",,0
+662,662: 2300 West (Lehi) between Main St. and 2100 North,,0
+663,"663: Harbor Park Way via Redwood Rd - 400 S Lehi, Saratoga Springs",,0
+664,664: Sr-89 In Mapleton,,0
+665,"665: I-15 N. of SR 77 NB, Springville",,0
+666,666: I-15 between SR-92 and 2100 North Lehi,,0
+667,"667: I-15 N. of SR 75 North NB, Springville/Provo",,0
+668,"668: I-15 N. of SR 189 University Avenue NB, Provo",,0
+669,"669: I-15 N. of SR 265 BYU Diagonal/University Pkwy NB, Provo",,0
+670,"670: I-15 N. of SR 241 NB, Lindon / Pleasant Grove",,0
+671,"671: I-15 N of SR 180 500 East NB, American Fork",,0
+672,672: 278.528,,0
+673,"673: I-15 N of SR 73 NB,  Lehi",,0
+674,"674: I-15 N of SR 92  NB, Highland / (Alpine)",,0
+675,"675: SR-92 By pass @ Center St., Highland",,0
+676,"676: SR-92 Center St., Highland",,0
+677,677: I-80 Lambs Canyon,,0
+678,678: I-80 Kimball Junction,,0
+679,679: 500 N Mantua via SR 91 - SR 23 (Center St) Wellsville,,0
+702,702: SR-18 Bluff St. 425 N. St. George,,0
+703,"703: SR 8 1313 W Sunset Blvd., St. George MP 0.640 FC 16",,0
+704,"704: Route 3196 2250 E Redcliff Drive, St. George MP 7.540 FC 17",,0
+711,"711: SR 154 2500 S Bangerter Highway, SLC MP 20.229 FC 14",,0
+712,"712: SR 7, Southern Parkway, St. George MP 1.337",,0
+713,"713: SR 7, Southern Parkway, St. George MP 4.800",,0
+714,"714: SR 7, Southern Parkway, St. George MP 6.910",,0
+715,"715: SR-9 Quail Ridge Rd., Springdale",,0
+716,"716: SR-18 Bluff St., St. George",,0
+717,717: I-15 Arizona State Line,,0
+718,"718: I-15 Brigham Rd., St. George",,0
+719,"719: I-15 Washington Pkwy., Washington",,0
+720,"720: I-15 South Beaver, Beaver",,0
+721,"721: I-15 Sulpherdale, Sulpherdale",,0
+722,"722: I-70 Cove fort, Cove fort",,0
+723,"723: I-15 NB @ 500 W., Washington",,0
+724,"724: SR-59 East of Hurricane, Hurricane",,0
+725,"725: 740 N via State St - Center Ave, Toquerville",,0
+726,"726: Fish Hatchery Rd via SR 89 - 200 S, Hatch",,0
+727,"727: Central Utah Corr Fac via SR 89 - 200 S Sterling, Gunnison",,0
+728,"728: 700 N via SR 89 - SR 132, Ephraim",,0
+729,"729: LaSal Loop Rd via SR 191 - Millcreek Dr, Moab",,0
+730,"730: SR 89 Jct via SR 12 - SR 63, Bryce Cyn",,0
+731,"731: 300 E Emery via SR 10 (Main St) - 100 S Millsite St Park, Ferron",,0
+732,"732: 300 S via SR 50 - SR 260, Scipio",,0
+733,733: I-15 Blackridge,,0
+ALL,All: All Stations in Utah,,0
+GRP,GRP: All Station Groups in Utah,,0
+CO0,CO0: Combined Alpine Loop,COFACGEO,1
+CO1,CO1: Combined Bear Lake,COFACGEO,1
+CO2,CO2: Combined Big Cottonwood,COFACGEO,1
+CO3,CO3: Combined Cedar Breaks,COFACGEO,1
+CO7,CO7: Combined Freeway I-15 Plymouth,COFACGEO,1
+CO4,CO4: Combined Freeway I-15 Rural,COFACGEO,1
+CO5,CO5: Combined Freeway I-15 Transition,COFACGEO,1
+CO6,CO6: Combined Freeway I-15 Suburban/Urban/CBD,COFACGEO,1
+CO8,CO8: Combined Freeway I-215,COFACGEO,1
+CO9,CO9: Combined Freeway I-70,COFACGEO,1
+COA,COA: Combined Freeway I-80 Nevada to Tooele,COFACGEO,1
+COB,COB: Combined Freeway I-80 Tooele to Bangerter,COFACGEO,1
+COC,COC: Combined Freeway I-80 Bangerter to Foothill,COFACGEO,1
+COD,COD: Combined Freeway I-80 Foothill to US-40,COFACGEO,1
+COY,COY: Combined Freeway I-80 US-40 to Wyoming,COFACGEO,1
+COE,COE: Combined Freeway I-84 West,COFACGEO,1
+COZ,COZ: Combined Freeway I-84 East,COFACGEO,1
+COF,COF: Combined Freeway Legacy,COFACGEO,1
+COG,COG: Combined Freeway SR-201,COFACGEO,1
+COH,COH: Combined Freeway US-40,COFACGEO,1
+COI,COI: Combined Little Cottonwood / Snowbasin,COFACGEO,1
+COJ,COJ: Combined Moab,COFACGEO,1
+COK,COK: Combined Park City,COFACGEO,1
+COL,COL: Combined Rural Rec Low Volume,COFACGEO,1
+COM,COM: Combined Rural Rec Low Volume - Closed Winter,COFACGEO,1
+CON,CON: Combined Southeast Low Volume,COFACGEO,1
+COO,COO: Combined Southeast High Volume,COFACGEO,1
+COP,COP: Combined Statewide Arterial - Rural Low Volume,COFACGEO,1
+COQ,COQ: Combined Statewide Arterial - Rural Mid Volume,COFACGEO,1
+COR,COR: Combined Statewide Arterial - Rural High Volume,COFACGEO,1
+COS,COS: Combined Statewide Arterial - Transition,COFACGEO,1
+COT,COT: Combined Statewide Arterial - Suburban,COFACGEO,1
+COU,COU: Combined Statewide Arterial - Urban/CBD,COFACGEO,1
+XX3,XX3: Combined Statewide Freeway,COFACGEO,1
+COV,COV: Combined Washington County Arterial,COFACGEO,1
+COW,COW: Combined Washington County Expressway,COFACGEO,1
+COX,COX: Combined Washington County Freeway,COFACGEO,1
+SN0,SN0: Season Alpine Loop,SSNFACGEO,0
+SN1,SN1: Season Bear Lake,SSNFACGEO,0
+SN2,SN2: Season Big Cottonwood,SSNFACGEO,0
+SN3,SN3: Season Cedar Breaks,SSNFACGEO,0
+SN4,SN4: Season Freeway I-15 Rural,SSNFACGEO,0
+SN5,SN5: Season Freeway I-15 Transition,SSNFACGEO,0
+SN6,SN6: Season Freeway I-15 Suburban,SSNFACGEO,0
+SN7,SN7: Season Freeway I-15 Urban/CBD,SSNFACGEO,0
+SN8,SN8: Season Freeway I-215,SSNFACGEO,0
+SN9,SN9: Season Freeway I-70,SSNFACGEO,0
+SNA,SNA: Season Freeway I-80 Rural,SSNFACGEO,0
+SNB,SNB: Season Freeway I-80 Transition,SSNFACGEO,0
+SNC,SNC: Season Freeway I-80 Suburban,SSNFACGEO,0
+SND,SND: Season Freeway I-80 Urban/CBD,SSNFACGEO,0
+SNE,SNE: Season Freeway I-84,SSNFACGEO,0
+SNF,SNF: Season Freeway Legacy,SSNFACGEO,0
+SNG,SNG: Season Freeway SR-201,SSNFACGEO,0
+SNH,SNH: Season Freeway US-40,SSNFACGEO,0
+SNI,SNI: Season Little Cottonwood / Snowbasin,SSNFACGEO,0
+SNJ,SNJ: Season Moab,SSNFACGEO,0
+SNK,SNK: Season Park City,SSNFACGEO,0
+SNL,SNL: Season Rural Rec Low Volume,SSNFACGEO,0
+SNM,SNM: Season Rural Rec Low Volume - Closed Winter,SSNFACGEO,0
+SNN,SNN: Season Southeast Low Volume,SSNFACGEO,0
+SNO,SNO: Season Southeast High Volume,SSNFACGEO,0
+SNP,SNP: Season Statewide Arterial - Rural Low Volume,SSNFACGEO,0
+SNQ,SNQ: Season Statewide Arterial - Rural Mid Volume,SSNFACGEO,0
+SNR,SNR: Season Statewide Arterial - Rural High Volume,SSNFACGEO,0
+SNS,SNS: Season Statewide Arterial - Transition,SSNFACGEO,0
+SNT,SNT: Season Statewide Arterial - Suburban,SSNFACGEO,0
+SNU,SNU: Season Statewide Arterial - Urban/CBD,SSNFACGEO,0
+SNV,SNV: Season Washington County Arterial,SSNFACGEO,0
+SNW,SNW: Season Washington County Expressway,SSNFACGEO,0
+SNX,SNX: Season Washington County I-15,SSNFACGEO,0
+XX1,XX1: Season Wasatch Front Commuter Freeway,SSNFACGEO,0
+U00,U00: UDOT Stand Alone,,0
+U40,U40: UDOT UrbanInterstate,,0
+U43,U43: UDOT UrbanOtherFwyExpPrinArt,,0
+U45,U45: UDOT UrbanMinArtMjrColMinColLoc,,0
+U50,U50: UDOT RuralInterstate,,0
+U51,U51: UDOT RuralOthPrinArt,,0
+U53,U53: UDOT RuralMinArtMajColMinColLoc,,0
+U60,U60: UDOT NorthRec,,0
+U62,U62: UDOT CottonwoodCanyons,,0
+U63,U63: UDOT GardenCityArea,,0
+U70,U70: UDOT StGeorge,,0
+U75,U75: UDOT HighElevation,,0
+WD0,WD0: Weekday Arterial Rural,WDFACGEO,0
+WD1,WD1: Weekday Arterial Transition,WDFACGEO,0
+WD2,WD2: Weekday Arterial Suburban,WDFACGEO,0
+WD3,WD3: Weekday Arterial Urban/CBD,WDFACGEO,0
+WD4,WD4: Weekday Canyon,WDFACGEO,0
+WD5,WD5: Weekday Expressway Rural/Transition,WDFACGEO,0
+WD6,WD6: Weekday Expressway Suburban,WDFACGEO,0
+WD7,WD7: Weekday Expressway Urban/CBD,WDFACGEO,0
+WD8,WD8: Weekday Freeway I-15 Rural,WDFACGEO,0
+WD9,WD9: Weekday Freeway I-15 Transition,WDFACGEO,0
+WDA,WDA: Weekday Freeway I-15 Suburban/Urban/CBD,WDFACGEO,0
+WDB,WDB: Weekday Freeway I-215,WDFACGEO,0
+WDC,WDC: Weekday Freeway I-70,WDFACGEO,0
+WDD,WDD: Weekday Freeway I-80 Rural,WDFACGEO,0
+XX2,XX2: Weekday Freeway I-80 Transition,WDFACGEO,0
+WDE,WDE: Weekday Freeway I-80 Suburban,WDFACGEO,0
+WDF,WDF: Weekday Freeway I-80 Urban/CBD,WDFACGEO,0
+WDG,WDG: Weekday Freeway I-84 East,WDFACGEO,0
+WDH,WDH: Weekday Freeway I-84 West,WDFACGEO,0
+WDI,WDI: Weekday Freeway Legacy,WDFACGEO,0
+WDJ,WDJ: Weekday Freeway SR-201,WDFACGEO,0
+WDK,WDK: Weekday Freeway US-40,WDFACGEO,0
+XX4,XX4: Weekday Freeway Statewide,WDFACGEO,0

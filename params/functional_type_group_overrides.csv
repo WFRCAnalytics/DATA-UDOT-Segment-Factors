@@ -3,3 +3,45 @@ SEGID,FTGROUP_NEW,NOTE
 0080_155.0,Freeway,no links in TDM
 Dixie_5134,Arterial,new road piece just over AZ border
 0067_004.0,Freeway,need to fix SEGID in TDM
+0201_000.0,Freeway,treat 201 the same as freeway portion for factors
+0201_002.8,Freeway,treat 201 the same as freeway portion for factors
+0006_239.5,Arterial,US-6 segemnts through Price should have arterial factors
+0006_239.9,Arterial,US-6 segemnts through Price should have arterial factors
+0006_241.2,Arterial,US-6 segemnts through Price should have arterial factors
+0006_242.5,Arterial,US-6 segemnts through Price should have arterial factors
+0092_000.5,Arterial,treat SR-92 as arterial
+0092_000.8,Arterial,treat SR-92 as arterial
+0092_001.4,Arterial,treat SR-92 as arterial
+0092_002.4,Arterial,treat SR-92 as arterial
+0092_003.4,Arterial,treat SR-92 as arterial
+0092_003.9,Arterial,treat SR-92 as arterial
+0089_396.8,Arterial,treat US-89 as arterial
+0089_396.1,Arterial,treat US-89 as arterial
+0089_397.6,Arterial,treat US-89 as arterial
+0089_404.3,Arterial,treat US-89 as arterial
+0089_405.7,Arterial,treat US-89 as arterial
+0052_003.7,Arterial,treat flyovers at Provo Canyon mouth as arterial
+MAG_6150,Freeway,Utah Lake Crossings
+MAG_6239,Freeway,Utah Lake Crossings
+MAG_6240,Freeway,Utah Lake Crossings
+MAG_6242,Freeway,Utah Lake Crossings
+MAG_6106,Freeway,Utah Lake Crossings
+MAG_6144,Freeway,Utah Lake Crossings
+MAG_6160,Freeway,Utah Lake Crossings
+MAG_6159,Freeway,Utah Lake Crossings
+MAG_6233,Freeway,Utah Lake Crossings
+MAG_6158,Freeway,Utah Lake Crossings
+MAG_6244,Freeway,Utah Lake Crossings
+MAG_6197,Freeway,Utah Lake Crossings
+MAG_6155,Freeway,Utah Lake Crossings
+MAG_6090,Freeway,Utah Lake Crossings
+3188_004.7,Freeway,St George Southern Parkway
+3188_006.7,Freeway,St George Southern Parkway
+0009_000.0,Expressway,
+0009_000.5,Expressway,
+0018_003.2,Expressway,
+0018_003.8,Expressway,
+0018_007.6,Expressway,
+0018_008.6,Expressway,
+Dixie_5176,Freeway,St George Southern Parkway
+Dixie_5175,Arterial
