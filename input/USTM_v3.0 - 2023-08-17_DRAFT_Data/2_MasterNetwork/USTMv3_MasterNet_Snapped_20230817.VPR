@@ -1,0 +1,484 @@
+[TPPLUS]
+PROJECT=NETWORK
+VprBasePath=D:\0 - MODELS\0 - USTM\USTM_V3.0 - 2023-08-17_DRAFT\1_INPUTS\3_HIGHWAY\
+
+[HWYLAYER]
+FileName=D:\0 - Models\0 - USTM\USTM_v3.0 - 2023-08-17_DRAFT\1_Inputs\3_Highway\USTMv3_MasterNet_Snapped_20230817.net
+Visible=1
+FileName2=
+DistScale=0.000641298582030766
+DistScaleOption=3
+SearchLimit=5
+TransitWidth=2
+TransitGap=3
+TransitMaxDraw=10
+PathTraceWidth=5
+PromptUnDo=0
+ClearLinkText=0
+ClearNodeText=0
+LeftHandDrive=0
+NoVprWarning=0
+AnimationStart=1
+AnimationStop=5
+AnimationSpeed=10
+AnimationIncr=1
+AnimationDay=-1
+AnimationRepeat=0
+AnimationDisplayTime=0
+AnimationStartTime=12/30/1899 8:00:00 AM
+AniDotSize=3
+AniDotStyle=0
+AniDotSizeStyle=0
+AniDotLength=12
+AniDotWidth=5
+AniDotSpacing=16
+AniSelectAnd=1
+AniColorAnd=1
+AniSelOrigins=
+AniSelDest=
+AniSelNodes=
+AniSelLinks=
+AniSelStarts=
+AniSelEnds=
+AniColorOrigins=
+AniColorDest=
+AniColorNodes=
+AniColorLinks=
+AniColorStarts=
+AniColorEnds=
+AniSelectedColor=255
+AniOtherColor=16711680
+AniVSetFromColor=255
+AniVSetToColor=16711680
+AniColorByVolSet=0
+AniVSetNumColor=0
+AniSpeedFromColor=255
+AniSpeedToColor=65280
+AniColorBySpeed=0
+AniSpeedNumColor=7
+AniSpeedColor1=255
+AniSpeedRange1=10
+AniSpeedColor2=8388736
+AniSpeedRange2=20
+AniSpeedColor3=8421504
+AniSpeedRange3=30
+AniSpeedColor4=16711680
+AniSpeedRange4=40
+AniSpeedColor5=8421376
+AniSpeedRange5=50
+AniSpeedColor6=32768
+AniSpeedRange6=60
+AniSpeedColor7=65280
+AniSpeedRange7=70
+DefaultCentroidColor=8421504,0,0
+DefaultNodeColor=16711680,0,0
+DefaultCentroidLinkColor=8421504,0,1
+DefaultLinkColor=16711680,0,1
+BaseX=0
+BaseY=0
+ScaleX=1
+ScaleY=1
+LayerMinScale=0
+LayerMaxScale=0
+LinkPostMinScale=0
+LinkPostMaxScale=0
+NodePostMinScale=0
+NodePostMaxScale=0
+BoundingBox=230115.32177,4094162.30048,673978.19948,4652641.56199
+ExternalDBF=
+ExternalLinkage=
+NodeOrderListIndex=1
+NodeOrderListName1=
+NodeOrderListValue1=
+NodeOrderListName2=
+NodeOrderListValue2=
+NodeOrderListName3=
+NodeOrderListValue3=
+NodeOrderListName4=
+NodeOrderListValue4=
+NodeOrderListName5=
+NodeOrderListValue5=
+NodeOrderListName6=
+NodeOrderListValue6=
+NodeOrderListName7=
+NodeOrderListValue7=
+NodeOrderListName8=
+NodeOrderListValue8=
+NodeOrderListName9=
+NodeOrderListValue9=
+NodeOrderListName10=
+NodeOrderListValue10=
+NodeOrderListName11=
+NodeOrderListValue11=
+NodeOrderListName12=
+NodeOrderListValue12=
+NodeOrderListName13=
+NodeOrderListValue13=
+NodeOrderListName14=
+NodeOrderListValue14=
+NodeOrderListName15=
+NodeOrderListValue15=
+NodeOrderListName16=
+NodeOrderListValue16=
+NodePopUpDisplayOrder=0
+ActiveNodeColorGroup=0
+NodeColorGroup1=
+NodeColorPaletteIndex1=0
+LinkOrderListIndex=1
+LinkOrderListName1=
+LinkOrderListValue1=
+LinkOrderListName2=
+LinkOrderListValue2=
+LinkOrderListName3=
+LinkOrderListValue3=
+LinkOrderListName4=
+LinkOrderListValue4=
+LinkOrderListName5=
+LinkOrderListValue5=
+LinkOrderListName6=
+LinkOrderListValue6=
+LinkOrderListName7=
+LinkOrderListValue7=
+LinkOrderListName8=
+LinkOrderListValue8=
+LinkOrderListName9=
+LinkOrderListValue9=
+LinkOrderListName10=
+LinkOrderListValue10=
+LinkOrderListName11=
+LinkOrderListValue11=
+LinkOrderListName12=
+LinkOrderListValue12=
+LinkOrderListName13=
+LinkOrderListValue13=
+LinkOrderListName14=
+LinkOrderListValue14=
+LinkOrderListName15=
+LinkOrderListValue15=
+LinkOrderListName16=
+LinkOrderListValue16=
+LinkPopUpDisplayOrder=0
+ActiveLinkColorGroup=9
+LinkColorGroup1=2019 Lanes
+LinkColorPaletteIndex1=0
+LinkDrawOffset1=0
+ActiveSelectGroup=0
+SelectGroup1=
+Select1=
+LinkColor1_1=4638635,0,5,LN_2019=4
+LinkColor1_2=2386408,0,4,LN_2019=3
+LinkColor1_3=13010778,0,3,LN_2019=2
+LinkColor1_4=4465675,0,2,LN_2019=1
+LinkColor1_5=8947848,2,1,FT_2019=1
+LinkColor1_6=13945941,1,1,LN_2019=0 & LN23_50<>0
+LinkColorGroup2=2019 Functional Type
+LinkColorPaletteIndex2=0
+LinkDrawOffset2=0
+LinkColor2_1=4465675,0,5,FT_2019>30 & FT_2019<40 ; Freeways
+LinkColor2_2=4465675,0,1,FT_2019=41 | FT_2019=42 ; Ramps
+LinkColor2_3=5939911,0,1,FT_2019=7 ; Unpaved
+LinkColor2_4=4638635,0,1,FT_2019=6 ; Local
+LinkColor2_5=1811445,0,1,FT_2019=5 ; Minor Collector
+LinkColor2_6=2386408,0,2,FT_2019=4 ; Major Collector
+LinkColor2_7=13010778,0,3,FT_2019=3 ; Minor Arterial
+LinkColor2_8=10245129,0,3,FT_2019=2 ; Principal Arterial
+LinkColor2_9=8947848,2,1,FT_2019=1 ; Centroid Connectors
+LinkColorGroup3=2019 Passing Lanes
+LinkColorPaletteIndex3=0
+LinkDrawOffset3=1
+LinkColorGroup4=2023 Lanes
+LinkColorPaletteIndex4=0
+LinkDrawOffset4=1
+LinkColor3_1=15658734,0,1,
+LinkColor3_2=15658734,2,1,FT_2019=1
+LinkColor3_3=255,0,5,PL_2019=1
+LinkColor4_1=4638635,0,5,LN_2023=4
+LinkColor4_2=2386408,0,4,LN_2023=3
+LinkColor4_3=13010778,0,3,LN_2023=2
+LinkColor4_4=4465675,0,2,LN_2023=1
+LinkColor4_5=8947848,2,1,FT_2023=1
+LinkColor4_6=13945941,1,1,LN_2019=0 & LN23_50<>0
+LinkColorGroup5=2023 Passing Lanes
+LinkColorPaletteIndex5=0
+LinkDrawOffset5=0
+LinkColor5_1=15658734,0,1,
+LinkColor5_2=15658734,2,1,FT_2023=1
+LinkColor5_3=255,0,5,PL_2023=1
+LinkColorGroup6=2028 Lanes
+LinkColorPaletteIndex6=0
+LinkDrawOffset6=1
+LinkColor6_1=4638635,0,5,LN_2028=4
+LinkColor6_2=2386408,0,4,LN_2028=3
+LinkColor6_3=13010778,0,3,LN_2028=2
+LinkColorGroup7=2028 Passing Lanes
+LinkColorPaletteIndex7=0
+LinkDrawOffset7=0
+LinkColor7_1=15658734,0,1,
+LinkColor7_2=15658734,2,1,FT23_28=1
+LinkColor7_3=255,0,5,PL23_28=1
+LinkColorGroup8=2023 LRP (Lanes)
+LinkColorPaletteIndex8=0
+LinkDrawOffset8=1
+LinkColor6_4=4465675,0,2,LN_2028=1
+LinkColor6_5=8947848,2,1,LN_2028=1
+LinkColor6_6=13945941,1,1,LN_2019=0 & LN23_50<>0
+LinkColor8_1=15658734,0,1,
+LinkColor8_2=4638635,0,3,LN23_50>LN23_42     ;Phase 3
+LinkColor8_3=13945941,0,3,LN23_42>LN23_32     ;Phase 2
+LinkColor8_4=1811445,0,3,LN23_32>LN_2028     ;Phase 1
+LinkColor8_5=4465675,0,5,LN_2028>LN_2019     ;STIP
+LinkColor8_6=15658734,2,1,FT_2019=1
+LinkColorGroup9=2023 LRP UF (Lanes)
+LinkColorPaletteIndex9=0
+LinkDrawOffset9=1
+LinkColor9_1=15658734,0,1,
+LinkColor9_2=4638635,0,3,LN23_50UF<>LN23_50     ;Phase 3
+LinkColor9_3=13945941,0,3,LN23_42UF<>LN23_42     ;Phase 2
+LinkColor9_4=1811445,0,3,LN23_32UF<>LN23_32     ;Phase 1
+LinkColor9_5=4465675,0,5,LN_2028>LN_2019     ;STIP
+LinkColor9_6=15658734,2,1,FT_2019=1
+ActiveNodePostGroup=0
+NodePostGroup1=
+NodePost1_1=N,-1,0
+NodePostSelectStr1=
+LinkColorGroup10=2023 LRP (TWLTL)
+LinkColorPaletteIndex10=0
+LinkDrawOffset10=0
+LinkColor10_1=15658734,0,1,
+LinkColor10_2=4638635,0,3,TL23_50>TL23_42     ;Phase 3
+LinkColor10_3=13945941,0,3,TL23_42>TL23_32     ;Phase 2
+LinkColor10_4=1811445,0,3,TL23_32>TL_2028     ;Phase 1
+LinkColor10_5=4465675,0,5,TL_2028>TL_2019     ;STIP
+LinkColor10_6=15658734,2,1,FT_2019=1
+LinkColor10_7=16777215,0,1,SUBAREAID<>0
+LinkColorGroup11=2023 LRP UF (TWLTL)
+LinkColorPaletteIndex11=0
+LinkDrawOffset11=0
+LinkColor11_1=15658734,0,1,
+LinkColor11_2=4638635,0,3,TL23_50UF<>TL23_50     ;Phase 3
+LinkColor11_3=13945941,0,3,TL23_42UF<>TL23_42     ;Phase 2
+LinkColor11_4=1811445,0,3,TL23_32UF<>TL23_32     ;Phase 1
+LinkColor11_5=4465675,0,5,TL_2028>TL_2019     ;STIP
+LinkColor11_6=15658734,2,1,FT_2019=1
+LinkColorGroup12=2023 LRP (Passing Lanes)
+LinkColorPaletteIndex12=0
+LinkDrawOffset12=1
+LinkColor12_1=255,0,1,
+LinkColor12_2=15658734,0,1,
+LinkColor12_3=4638635,0,3,PL23_50>PL23_42     ;Phase 3
+LinkColor12_4=13945941,0,3,PL23_42>PL23_32     ;Phase 2
+LinkColor12_5=1811445,0,3,PL23_32>PL_2028     ;Phase 1
+LinkColor12_6=4465675,0,5,PL_2028>PL_2019     ;STIP
+LinkColor12_7=15658734,2,1,FT_2019=1
+LinkColorGroup13=2023 LRP UF (Passing Lanes)
+LinkColorPaletteIndex13=0
+LinkDrawOffset13=1
+LinkColor13_1=15658734,0,1,
+LinkColor13_2=4638635,0,3,PL23_50UF<>PL23_50     ;Phase 3
+LinkColor13_3=13945941,0,3,PL23_42UF<>PL23_42     ;Phase 2
+LinkColor13_4=1811445,0,3,PL23_32UF<>PL23_32     ;Phase 1
+LinkColor13_5=4465675,0,5,PL_2028>PL_2019     ;STIP
+LinkColor13_6=15658734,2,1,FT_2019=1
+LinkColor2_10=255,0,0,LN_2019=0
+LinkColorGroup14=
+LinkColorPaletteIndex14=0
+LinkDrawOffset14=0
+LinkColor14_1=15658734,0,1,
+LinkColor14_2=4638635,0,3,LN23_50 <> LN23_50UF    ;Phase 3
+LinkColor14_3=13945941,0,3,LN23_42 <> LN23_42UF    ;Phase 2
+LinkColor14_4=1811445,0,3,LN23_32 <> LN23_32UF   ;Phase 1
+LinkColor14_5=15658734,2,1,FT_2019=1
+LinkColorGroup15=
+LinkColorPaletteIndex15=0
+LinkDrawOffset15=0
+ActiveLinkCalcGroup=0
+LinkCalcGroup1=
+LinkCalc1_1=PL23_50UF=PL23_50
+LinkCalc1_2=PL23_42UF=PL23_42
+LinkCalc1_3=PL23_32UF=PL23_32
+LinkCalcApply1=1
+LinkCalcCondition1=
+ActiveNodeCalcGroup=0
+NodeCalcGroup1=
+NodeCalc1_1=PNR23_50UF=PNR23_50
+NodeCalc1_2=PNR23_42UF=PNR23_42
+NodeCalc1_3=PNR23_32UF=PNR23_32
+NodeCalcApply1=1
+NodeCalcCondition1=
+LinkCalc1_4=TL23_50UF=TL23_50
+LinkCalc1_5=TL23_42UF=TL23_42
+LinkCalc1_6=TL23_32UF=TL23_32
+LinkCalc1_7=FT23_50UF=FT23_50
+LinkCalc1_8=FT23_42UF=FT23_42
+LinkCalc1_9=FT23_32UF=FT23_32
+LinkColor8_7=16777215,0,1,SUBAREAID<>0
+LinkColor11_7=16777215,0,1,SUBAREAID<>0
+LinkColor12_8=16777215,0,1,SUBAREAID<>0
+LinkColor13_7=16777215,0,1,SUBAREAID<>0
+
+[LINLAYER]
+Visible=0
+FileName=D:\0 - Models\0 - USTM\USTM_v3.0 - 2023-08-17_DRAFT\1_Inputs\3_Highway\GIS\USTMv3_MasterNet_Snapped_20230817_Link.shp
+FileName2=
+TrueShape=1,0,1,-1,1,1
+DefaultCentroidColor=8421504,0,0
+DefaultNodeColor=16776960,0,0
+DefaultCentroidLinkColor=8421504,0,1
+DefaultLinkColor=16776960,0,1
+BaseX=0
+BaseY=0
+ScaleX=1
+ScaleY=1
+LayerMinScale=0
+LayerMaxScale=0
+LinkPostMinScale=0
+LinkPostMaxScale=0
+NodePostMinScale=0
+NodePostMaxScale=0
+BoundingBox=230115.32177,4094162.30048,673978.19948,4652641.56199
+ExternalDBF=
+ExternalLinkage=
+ActiveNodeColorGroup=0
+NodeColorGroup1=
+NodeColorPaletteIndex1=0
+ActiveLinkColorGroup=0
+LinkColorGroup1=
+LinkColorPaletteIndex1=0
+LinkDrawOffset1=0
+ActiveSelectGroup=0
+SelectGroup1=
+Select1=
+
+[PLOT]
+ActiveSetUp=1
+Set1=Set1
+Set1ScalePrtLineWidth=0
+Set1DrawAlwaysOnTop=0
+Set1PrintBackColor=0
+Set1FixedScale=0
+Set1LMargin=0
+Set1RMargin=0
+Set1TMargin=0
+Set1BMargin=0
+Set1Header1=
+Set1Footer1=
+Set1Header2=
+Set1Footer2=
+Set1Header3=
+Set1Footer3=
+Set1Header4=
+Set1Footer4=
+Set1HeaderFont=Tahoma,0,8
+Set1FooterFont=Tahoma,0,8
+Set1HeaderAlignment=Left
+Set1FooterAlignment=Left
+
+[LEGEND]
+LegendDisplay=0
+Set1Legend1UnitType=0
+Set1Legend1Anchor=0,0
+Set1Legend1Loc=0,0
+Set1Legend1Size=0,0
+Set1Legend1FullHeight=0
+Set1Legend1NumItems=1
+Set1Legend2UnitType=0
+Set1Legend2Anchor=2,0
+Set1Legend2Loc=0,0
+Set1Legend2Size=0,0
+Set1Legend2FullHeight=0
+Set1Legend2NumItems=1
+Set1Legend3UnitType=0
+Set1Legend3Anchor=0,2
+Set1Legend3Loc=0,0
+Set1Legend3Size=0,0
+Set1Legend3FullHeight=0
+Set1Legend3NumItems=1
+Set1Legend4UnitType=0
+Set1Legend4Anchor=2,2
+Set1Legend4Loc=0,0
+Set1Legend4Size=0,0
+Set1Legend4FullHeight=0
+Set1Legend4NumItems=1
+Set1Legend1Item1Font=Tahoma,0,8
+Set1Legend1Item1=0,0,0,0,0,0,
+Set1Legend2Item1Font=Tahoma,0,8
+Set1Legend2Item1=0,0,0,0,0,0,
+Set1Legend3Item1Font=Tahoma,0,8
+Set1Legend3Item1=0,0,0,0,0,0,
+Set1Legend4Item1Font=Tahoma,0,8
+Set1Legend4Item1=0,0,0,0,0,0,
+
+[SAVEVIEWS]
+RestoreLastView=0
+ViewLast=-282951.838897982,1187045.36014798,4094162.30048,4652641.56199
+
+[DYNASIM]
+DynaFieldIsSpeed=1
+DynaUnitInMiles=1
+DynaRTOR=1
+DynaFileName=
+DynaPathFileName=
+DynaLaneFieldName=
+DynaSpeedFieldName=
+DynaOffsetFieldName=
+DynaCenterOffset=1.75
+DynaLaneWidth=0.5
+DynaLaneSpacing=3.5
+DynaMaxSpeed=115
+DynaScale=1
+DynaTripScale=1
+DynaAddRadius=6.25
+DynaLayerNumber=1
+DXFFileName=
+DynaBusModes=1-999
+DynaArtBusModes=
+DynaTramModes=
+DynaTramTRModes=
+DynaHeadwayPeriod=1
+DynaPTStopMin=20
+DynaPTStopMax=30
+DynaPTStopMean=25
+DynaPTStopStdDev=4
+DynaPathSet=0
+DynaVolSet=1,2,0,0,0,0,0,0
+
+[PTSLAYER]
+Visible=0
+FileName=
+FileName2=
+DefaultCentroidColor=8421504,0,0
+DefaultNodeColor=255,0,0
+DefaultCentroidLinkColor=8421504,0,1
+DefaultLinkColor=255,0,1
+BaseX=0
+BaseY=0
+ScaleX=1
+ScaleY=1
+LayerMinScale=0
+LayerMaxScale=0
+LinkPostMinScale=0
+LinkPostMaxScale=0
+NodePostMinScale=0
+NodePostMaxScale=0
+BoundingBox=0,0,0,0
+ExternalDBF=
+ExternalLinkage=
+ActiveNodeColorGroup=0
+NodeColorGroup1=
+NodeColorPaletteIndex1=0
+ActiveLinkColorGroup=0
+LinkColorGroup1=
+LinkColorPaletteIndex1=0
+LinkDrawOffset1=0
+ActiveSelectGroup=0
+SelectGroup1=
+Select1=
+
+[LayerOrder]
+NumRecords=1
+ScreenColor=16777215
+FreewayOutlineColor=5263440
+NumDisplayDec=-1
+ScreenFont=Tahoma,0,8
+Order=HWYLAYER,TRNLAYER,PTSLAYER,LINLAYER,BDYLAYER,IMGLAYER,DRWLAYER
+
