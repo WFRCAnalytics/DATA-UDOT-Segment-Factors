@@ -1,0 +1,1 @@
+manually changed hour column names in 2018 files to remove H from Hour headings, eg H0000,H0001 -> 0000,0001
