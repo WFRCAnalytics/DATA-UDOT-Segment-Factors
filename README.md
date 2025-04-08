@@ -1,4 +1,4 @@
-# UDOT-Segment-Factors
+# DATA-UDOT-Segment-Factors
 This repository contains the data and code for the creation of seasonal, day-of-week, and hour-of-day factors.
 
 This readme is divided into three sections:
